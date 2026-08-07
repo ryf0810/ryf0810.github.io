@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am a second year PhD student in Biomedical Data Science at University of Wisconsin - Madison, working with Professor [Juan Caicedo](https://morgridge.org/research/labs/caicedo/). Previously I worked as machine learning researcher at [Morgridge Insititute of Research](https://morgridge.org/).
+I am a second year PhD student in Biomedical Data Science at University of Wisconsin - Madison, working with Professor [Juan Caicedo](https://morgridge.org/research/labs/caicedo/). Previously I worked as a machine learning researcher at [Morgridge Insititute of Research](https://morgridge.org/).
 
 My research primarily focuses on Computer Vision, Generative Modeling and their applications to biological images. Currently I am working on leveraging flow matching to sythesize perturbed cellular morphorlogical features.
 
