@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Inivted "Talks"
+title: "Inivted Talks"
 permalink: /talks/
 author_profile: true
 ---
