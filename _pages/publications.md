@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-mnDINO: Accurate and robust segmentation of micronuclei with vision transformer networks
-**Yifan Ren**, Louise Morlot, J. Owen Andrews, Emil Peter Thrane Hertz, Niels Mailand, Juan C. Caicedo
-*bioRxiv* (2026)
+mnDINO: Accurate and robust segmentation of micronuclei with vision transformer networks <br>
+**Yifan Ren**, Louise Morlot, J. Owen Andrews, Emil Peter Thrane Hertz, Niels Mailand, Juan C. Caicedo <br>
+*bioRxiv* (2026) <br>
 [[code]](https://github.com/CaicedoLab/micronuclei-detection) [[preprint]](https://www.biorxiv.org/content/10.64898/2026.03.09.710648v2.abstract)

@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Talks"
+title: Inivted "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
-## Invited Talks
 
 **Speaker**: Discovery Seminar Series. Morgridge Institute for Research. Madison, WI. Nov 2024.
