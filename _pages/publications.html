@@ -5,32 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+mnDINO: Accurate and robust segmentation of micronuclei with vision transformer networks
+**Yifan Ren**, Louise Morlot, J. Owen Andrews, Emil Peter Thrane Hertz, Niels Mailand, Juan C. Caicedo
+bioRxiv (2026)
+[[code]](https://github.com/CaicedoLab/micronuclei-detection)
+[[preprint]](https://www.biorxiv.org/content/10.64898/2026.03.09.710648v2.abstract)
