@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Curriculum Vitae](../files/cv.pdf)
+[Curriculum Vitae](../files/Resume_Yifan_Ren.pdf)
